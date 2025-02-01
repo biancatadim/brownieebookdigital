@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Guia Completo de Brownies Lucrativos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        header {
+            background-color: #6b3e26;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #6b3e26;
+        }
+        .cta-button {
+            background-color: #e67e22;
+            color: white;
+            padding: 15px;
+            text-decoration: none;
+            font-size: 18px;
+            display: inline-block;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        .bonus {
+            background-color: #fbeee0;
+            padding: 15px;
+            margin: 20px 0;
+            border-left: 5px solid #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <header>O Guia Completo de Brownies Lucrativos</header>
+    <div class="container">
+        <h1>Transforme Brownies em uma Renda Extra!</h1>
+        <p>Aprenda a fazer brownies irresistíveis e descubra estratégias testadas para vendê-los com alto lucro.</p>
+        
+        <h2>O que você vai aprender:</h2>
+        <ul>
+            <li>Receitas de brownies deliciosos com variações de sabores.</li>
+            <li>Como precificar corretamente para obter lucro real.</li>
+            <li>Estratégias de venda para ruas, lanchonetes e açaíterias.</li>
+        </ul>
+        
+        <div class="bonus">
+            <h2>Bônus Exclusivos!</h2>
+            <p>Ao adquirir o guia, você recebe gratuitamente:</p>
+            <ul>
+                <li>Guia de Inteligência Artificial para confeiteiras nas redes sociais.</li>
+                <li>Pack Canva: Feed e Stories prontos para Instagram.</li>
+                <li>Frases persuasivas para legendas que vendem.</li>
+            </ul>
+        </div>
+        
+        <a href="#" class="cta-button">Quero Começar Agora!</a>
+    </div>
+</body>
+</html>
+
